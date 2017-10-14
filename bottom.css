@@ -1,0 +1,61 @@
+﻿.bottom{
+    position:relative;
+}
+ .bottom-left{
+     margin:12px 8px 20px 340px;
+ }
+ .bottom-title{
+        font-weight:600;
+       text-align:center;
+        width:485px;
+        height:55px;
+        line-height:55px;
+        font-size:18px;
+        background-color:#effb55;
+       
+ }
+  .bottom-img1{
+      background:url("https://img.alicdn.com/tps/i4/TB1VR6HeHsTMeJjy1zbSuwhlVXa.jpg_490x490q100.jpg_.webp");
+        width:485px;
+        height:316px;
+  }
+.bottom-title2 {
+    font-weight: 600;
+    text-align: center;
+    width: 234px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 18px;
+    background-color: #effb55;
+    
+}
+.bottom-img2{
+      background:url("https://img.alicdn.com/tps/TB104MlMVXXXXaZXpXXXXXXXXXX-570-400.jpg");
+        width:234px;
+        height:316px;
+  }
+.bottom-modle{
+    position:absolute;
+    top:0px;
+    left:830px;
+}
+.bottom-right{
+     position:absolute;
+     top:0px;
+     left:1070px;
+}
+.bottom-title3 {
+    font-weight: 600;
+    text-align: center;
+    width: 490px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 18px;
+    background-color:  #EFFA65;
+   
+}
+.bottom-img3 {
+    background: url("https://img.alicdn.com/tps/i4/TB18tHjeYsTMeJjSsziSuwdwXXa.jpg_490x490q100.jpg_.webp");
+    width: 490px;
+    height: 316px;
+}

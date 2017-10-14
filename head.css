@@ -1,0 +1,53 @@
+﻿
+   
+.head{
+    width:1220px;
+    height:137px;
+    margin:0 auto;
+    position:relative;
+
+}
+.labe input {
+    width: 532px;
+    height: 36px;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    border:2px solid #FF0036;
+    position:absolute;
+    top:50px;
+    left:390px;
+}
+#sbt{ color:white;
+    font-family:Arial;
+    background-color:#FF0036;
+    float:right;
+    width: 122px;
+    height: 40px;
+    position:absolute;
+    top:50px;
+    left:880px;
+    cursor:pointer;
+}
+ 
+    .search::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+.god li {
+    float: left;
+    margin:0 4px;        
+}
+.searchbt{
+     position:absolute;
+     top:90px;
+     left:385px;
+     font-size:14px;
+}
+.lei2{
+    color:#999;
+}
+ .lei{
+     color:#FF0036;
+ }
